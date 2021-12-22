@@ -9,10 +9,10 @@
 ## Installation Guide
 
 Perform these commands before running loan qualifier:
-'''
-pip install fire
-pip install questionary
-'''
+```python
+  pip install fire
+  pip install questionary
+```
 
 ## Usage
 
