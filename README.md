@@ -23,8 +23,9 @@ explain how to launch the application by including the command users will need t
 python app.py
 '''
 
-Here's a picture
-![This is the picture's description](pictures/picture_1.jpg)
+Upon launching the loan qualifier application you will be greeted with the following prompts.
+
+![Here's a picture](pictures/picture_1.jpg)
 
 ## Contributors
 
