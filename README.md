@@ -19,9 +19,9 @@ Perform these commands before running loan qualifier:
 briefly describe how to use the application
 explain how to launch the application by including the command users will need to type into the terminal
 
-'''python
+```python
 python app.py
-'''
+```
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
